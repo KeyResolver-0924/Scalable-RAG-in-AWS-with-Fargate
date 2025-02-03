@@ -43,7 +43,6 @@ def test_create_index(mock_opensearch_client):
     index_name = 'test-index'
     username = 'test-user'
     password = 'test-password'
-
     # Set up the mock response
     mock_response = {'acknowledged': True, 'shards_acknowledged': True, 'index': index_name}
     mock_opensearch_client.indices.create.return_value = mock_response
