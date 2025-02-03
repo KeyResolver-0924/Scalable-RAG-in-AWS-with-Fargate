@@ -1,0 +1,8 @@
+PyMuPDF 
+boto3
+langchain_aws
+langchain-community
+loguru
+ruff
+pytest
+opensearch-py
