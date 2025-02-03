@@ -47,7 +47,7 @@ The Python version used for this project is Python 3.11.
 1. Clone the repo (or download it as a zip file):
 
    ```bash
-   git clone https://github.com/benitomartin/aws-bedrock-opensearch-langchain.git
+   git clone https://github.com/T-AIMaven/aws-bedrock-opensearch-langchain.git
    ```
 
 2. Create the virtual environment named `main-env` using Conda with Python version 3.10:
