@@ -9,7 +9,6 @@ from botocore.exceptions import ClientError
 def get_opensearch_endpoint(domain_name, region):
     """
     Retrieve the OpenSearch domain endpoint.
-
     Attempt to describe the OpenSearch domain and return the endpoint if available.
 
     Args:
