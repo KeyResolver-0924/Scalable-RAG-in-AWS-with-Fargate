@@ -14,6 +14,7 @@ from loguru import logger
 logger.remove()
 logger.add(sys.stdout, level=os.getenv("LOG_LEVEL", "INFO"))
 
+
 def extract_text_from_pdf(pdf_path):
     """
     Extracts text from a PDF file and returns it as a list of dictionaries.
