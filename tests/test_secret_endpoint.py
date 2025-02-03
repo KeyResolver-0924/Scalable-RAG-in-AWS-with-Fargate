@@ -12,7 +12,6 @@ from retrieve_endpoint import get_opensearch_endpoint, main
 def mock_boto3_client():
     """
     Fixture to mock the boto3 client.
-    
     Returns:
         MagicMock: A mock object representing the boto3 client.
 
