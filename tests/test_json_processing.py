@@ -17,7 +17,6 @@ DOCUMENT_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data',
 def sample_json_data():
     """
     Create a sample JSON data for testing.
-
     Returns:
         list: A list of dictionaries representing pages with text
 
