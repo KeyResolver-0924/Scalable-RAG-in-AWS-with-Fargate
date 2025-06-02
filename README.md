@@ -1,4 +1,4 @@
-# RAG Application with LangChain, AWS Opensearch and AWS Bedrock
+# RAG Application with LangChain, AWS Opensearch and AWS Bedrock.
 
 <p align="center">
 <img width="737" alt="cover_gke_medium" src="https://github.com/user-attachments/assets/bed9591e-23f0-4219-86e8-9764f51da0a2">
